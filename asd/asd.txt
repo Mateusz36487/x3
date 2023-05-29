@@ -1,0 +1,2 @@
+SELECT imie,nazwisko,miasto FROM klient WHERE miasto = "Legionowo" OR miasto = "Warszawa"
+SELECT nazwa FROM produkty WHERE cena_brutto > 500;
